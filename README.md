@@ -7,22 +7,22 @@ Identificar patrones de uso, comportamientos atípicos y comprender que segmento
 
 **Datasets Utilizados**
 
-plans.csv : planes actuales, precios de planes y minutos, GB incluidos y costos extras.
-users_latam.csv : información de los clientes, como edad, ciudad, planes, fechas de registro.
-usage.csv : detalle de uso real en llamadas y mensajes.
+- plans.csv : planes actuales, precios de planes y minutos, GB incluidos y costos extras.
+- users_latam.csv : información de los clientes, como edad, ciudad, planes, fechas de registro.
+- usage.csv : detalle de uso real en llamadas y mensajes.
 
 **Etapas de Análsis**
 
-*Exploración y estructura de datesets.
-*Identificación de problemas de calidad de los datos.
--Detección de valores invalidos y sentinels.
--Estandarización de fechas.
--Limpieza básica de datos.
--Corregir sentinels y fechas imposibles.
--Resumenes estadistico.
--Visualización de distribución e identificación de outliers.
--Segmentación de clientes por edad y nivel de uso.
--Insights 
+- Exploración y estructura de datesets.
+- Identificación de problemas de calidad de los datos.
+- Detección de valores invalidos y sentinels.
+- Estandarización de fechas.
+- Limpieza básica de datos.
+- Corregir sentinels y fechas imposibles.
+- Resumenes estadistico.
+- Visualización de distribución e identificación de outliers.
+- Segmentación de clientes por edad y nivel de uso.
+- Insights 
 
 **Como ejecutar el notebook**
 

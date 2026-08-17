@@ -26,6 +26,7 @@ Identificar patrones de uso, comportamientos atípicos y comprender que segmento
 
 **Como ejecutar el notebook**
 
+
 **Guia de reproducción**
 
 

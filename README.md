@@ -26,8 +26,10 @@ Identificar patrones de uso, comportamientos atípicos y comprender que segmento
 
 **Como ejecutar el notebook**
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cccano/sprint7-final-project/blob/main/Proyect_Telecom_S7.ipynb)
 
 **Guia de reproducción**
 
-
+En el notebook queda guardado en una carpeta datasets el conjunto de archivos csv que son necesarios para realizar el análisis.
+solo tienes que direccionarte a colab desde el boton que abre el notebook, importar pandas ejecutar pd.read.csv()para que esten activos.
 

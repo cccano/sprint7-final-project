@@ -26,6 +26,8 @@ Identificar patrones de uso, comportamientos atípicos y comprender que segmento
 
 **Como ejecutar el notebook**
 
+Desde el siguiente boton dando clic para ir al notebook
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cccano/sprint7-final-project/blob/main/Proyect_Telecom_S7.ipynb)
 
 **Guia de reproducción**
